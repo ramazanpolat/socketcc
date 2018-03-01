@@ -1,10 +1,9 @@
 # socketcc
 Socket Cluster Client for Python
 
-This is a refined fork of [https://github.com/sacOO7/socketcluster-client-python](socketcluster-client-python)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+This is a refined fork of [https://github.com/sacOO7/socketcluster-client-python](socketcluster-client-python).
 
-# Why?
+# Why fork?
 The original work of [sacOO7](https://github.com/sacOO7/socketcluster-client-python) was great except the code styling.
 So I refined it to conform [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/ "Style Guide for Python Code")
 
