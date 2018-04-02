@@ -1,7 +1,7 @@
 # socketcc
 Socket Cluster Client for Python
 
-This is a refined fork of [https://github.com/sacOO7/socketcluster-client-python](socketcluster-client-python).
+This is a refined fork of [https://github.com/sacOO7/socketcluster-client-python](https://github.com/sacOO7/socketcluster-client-python).
 
 # Why fork?
 The original work of [sacOO7](https://github.com/sacOO7/socketcluster-client-python) was great except the code styling.
