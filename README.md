@@ -18,7 +18,7 @@ This client provides following functionality
 - Automatic reconnection
 - Pub/sub
 - Authentication (JWT)
-- Needs python3.6.3
+- Needs python 3.6+
 
 To install use
 ```python
